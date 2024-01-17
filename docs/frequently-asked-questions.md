@@ -18,11 +18,8 @@ Shifts are hosted at 12 AM, 7 AM, 9 AM, 11 AM, 1 PM, 3 PM, 6 PM, 8 PM, and 10 PM
 ### <font color="#C21807">When are training sessions hosted?</font>
 Training sessions are hosted at 2 AM (weekends only), 6 AM (weekends only), 10 AM, 12 PM, 2 PM, 4 PM, 7 PM, 9 PM, and 11 PM. All times are in EST.
 
-### <font color="#C21807">I am a Store Manager or an HR. Is there a way for me to determine the remaining duration of my promotion cooldown?</font>
-If you are a Store Manager, please ping or send a direct message to an HR. If you are an HR, please ping an SHR.
-
 ### <font color="#C21807">Do players who claim ranks through the points system face a cooldown period?</font>
-Players who claim ranks through the points system do not face a cooldown period if they choose to work their way up through points. However, Store Managers and HRs who have acquired a rank through points and are seeking a promotion by getting recognized are subject to cooldowns.
+Players who claim ranks through the points system do not face a cooldown period if they choose to work their way up through points. However, Cafe Managers and HRs who have acquired a rank through points and are seeking a promotion by getting recognized are subject to cooldowns.
 
 ### <font color="#C21807">What are some examples of point cheating?</font>
 Point cheating encompasses actions such as using alternate accounts or enlisting friends to accumulate points and removing items from shelves only to restock them shortly afterward.
