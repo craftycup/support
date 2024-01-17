@@ -99,7 +99,6 @@ You can find a comprehensive list of Crafty Cup ranks and their descriptions bel
 - Granted access to admin commands and are expected to use them responsibly
 - Must first complete their one two cooldown period and then be recognized by an SHR to be promoted
 - Can also earn 10,000 points in total to be promoted
-- ### <font color="#C21807">Executive Assistant</font> 
 
 ### <font color="#C21807">Cafe Executive</font> 
 
