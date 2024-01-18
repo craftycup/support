@@ -59,19 +59,55 @@ const config = {
         respectPrefersColorScheme: false,
       },
       navbar: {
-        title: "Crafty Cup Support",
+        title: "BloxStreet Support",
         items: [],
       },
-    footer: {
-      logo: {
-        alt: 'Meta Open Source Logo',
-        src: 'img/meta_oss_logo.png',
-        href: 'https://opensource.fb.com',
-        width: 160,
-        height: 51,
+      footer: {
+        style: "dark",
+        links: [
+          {
+            title: "Support",
+            items: [
+              {
+                label: "Home",
+                to: "/",
+              },
+            ],
+          },
+          {
+            title: "Community",
+            items: [
+              {
+                label: "Roblox Group",
+                href: "https://www.roblox.com/groups/2700627/BloxStreet-Corporation#!/about",
+              },
+              {
+                label: "Discord",
+                href: "https://discord.com/invite/bloxstreet",
+              },
+            ],
+          },
+          {
+            title: "GitHub",
+            items: [
+              {
+                label: "Organization",
+                href: "https://github.com/bloxstreet",
+              },
+              {
+                label: "Support Repository",
+                href: "https://github.com/bloxstreet/support",
+              },
+            ],
+          },
+        ],
+        copyright: `Copyright © ${new Date().getFullYear()} BloxStreet. Built with Docusaurus.`,
       },
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-    },
-    },
+      prism: {
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
+      },
+    }),
+};
 
 export default config;
