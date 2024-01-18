@@ -1,4 +1,4 @@
-0---
+---
 sidebar_position: 2
 sidebar_title: faq
 sidebar_label: FAQ
