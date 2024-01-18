@@ -8,5 +8,6 @@ sidebar_class_name: MR+ Information
 
 :::info
 
-Hey there! We're working on that...
+Hey there! We're still working on that...
+
 :::
