@@ -62,52 +62,16 @@ const config = {
         title: "Crafty Cup Support",
         items: [],
       },
-      footer: {
-        style: "dark",
-        links: [
-          {
-            title: "Support",
-            items: [
-              {
-                label: "Home",
-                to: "/",
-              },
-            ],
-          },
-          {
-            title: "Community",
-            items: [
-              {
-                label: "Roblox Group",
-                href: "",
-              },
-              {
-                label: "Discord",
-                href: "",
-              },
-            ],
-          },
-          {
-            title: "GitHub",
-            items: [
-              {
-                label: "Organization",
-                href: "",
-              },
-              {
-                label: "Support Repository",
-                href: "",
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} BloxStreet. Built with Docusaurus.`,
+    footer: {
+      logo: {
+        alt: 'Meta Open Source Logo',
+        src: 'img/meta_oss_logo.png',
+        href: 'https://opensource.fb.com',
+        width: 160,
+        height: 51,
       },
-      prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
-      },
-    }),
-};
+      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+    },
+    },
 
 export default config;
