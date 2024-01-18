@@ -6,7 +6,7 @@ sidebar_class_name: MR+ Information
 
 # Training Guide
 
-:::warn
+:::info
 
 Hey there! We're working on that...
 
