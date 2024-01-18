@@ -8,7 +8,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "BloxStreet Support",
+  title: "Crafty Cup Support",
   tagline: "All there is to know about Crafty Cup",
   favicon: "img/favicon.ico",
 
