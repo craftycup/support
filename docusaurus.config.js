@@ -8,8 +8,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Crafty Cup Support",
-  tagline: "All there is to know about Crafty Cuo",
+  title: "BloxStreet Support",
+  tagline: "All there is to know about BloxStreet",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "Crafty Cup", // Usually your GitHub org/user name.
+  organizationName: "bloxstreet", // Usually your GitHub org/user name.
   projectName: "support", // Usually your repo name.
 
   onBrokenLinks: "throw",
@@ -79,11 +79,11 @@ const config = {
             items: [
               {
                 label: "Roblox Group",
-                href: "https://www.roblox.com/groups/4888902/Crafty-Cup#!/about",
+                href: "",
               },
               {
                 label: "Discord",
-                href: "https://discord.com/invite/craftycup",
+                href: "",
               },
             ],
           },
