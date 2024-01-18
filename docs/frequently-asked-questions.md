@@ -88,10 +88,10 @@ Yes.
 Yes.
 
 ### <font color="#C21807">How can I get unblacklisted or unbanned?</font>
-In order to get unblacklisted or unbanned, submit an appeal through [this form]((https://forms.gle/9GyGbiMDhumVZmYY7)). Ensure all requirements are met before submitting the form.
+In order to get unblacklisted or unbanned, submit an appeal through [this form](https://forms.gle/9GyGbiMDhumVZmYY7). Ensure all requirements are met before submitting the form.
 
   ### <font color="#C21807">How can I get unbanned from Crafty Cup Discord server?</font>
-In order to get unbanned from BloxStreet’s Discord server, submit an appeal through [this form](https://forms.gle/K8je3XWTNBGU6P976)). Ensure all requirements are met before submitting the form.
+In order to get unbanned from BloxStreet’s Discord server, submit an appeal through [this form](https://forms.gle/K8je3XWTNBGU6P976). Ensure all requirements are met before submitting the form.
 
 ### <font color="#C21807">Can I become a developer or a moderator for Crafty Cup?</font>
 No.
