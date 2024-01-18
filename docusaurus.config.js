@@ -8,12 +8,12 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Crafty Cup Support",
+  title: "Bloxstreet Support",
   tagline: "All there is to know about Crafty Cup",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://support.bloxstreet.com",
+  url: "https://craftycupsupport.vercel.app",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
