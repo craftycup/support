@@ -8,8 +8,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "BloxStreet Support",
-  tagline: "All there is to know about BloxStreet",
+  title: "Crafty Cup Support",
+  tagline: "All there is to know about Crafty Cuo",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "bloxstreet", // Usually your GitHub org/user name.
+  organizationName: "Crafty Cup", // Usually your GitHub org/user name.
   projectName: "support", // Usually your repo name.
 
   onBrokenLinks: "pass",
@@ -59,7 +59,7 @@ const config = {
         respectPrefersColorScheme: false,
       },
       navbar: {
-        title: "BloxStreet Support",
+        title: "Crafty Cup Support",
         items: [],
       },
       footer: {
@@ -79,11 +79,11 @@ const config = {
             items: [
               {
                 label: "Roblox Group",
-                href: "https://www.roblox.com/groups/2700627/BloxStreet-Corporation#!/about",
+                href: "https://www.roblox.com/groups/4888902/Crafty-Cup#!/about",
               },
               {
                 label: "Discord",
-                href: "https://discord.com/invite/bloxstreet",
+                href: "https://discord.com/invite/craftycup",
               },
             ],
           },
@@ -92,11 +92,11 @@ const config = {
             items: [
               {
                 label: "Organization",
-                href: "https://github.com/bloxstreet",
+                href: "",
               },
               {
                 label: "Support Repository",
-                href: "https://github.com/bloxstreet/support",
+                href: "",
               },
             ],
           },
