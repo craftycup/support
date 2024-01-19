@@ -97,7 +97,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} BloxStreet. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Crafty Cup. Made by alexandros252423.`,
       },
       prism: {
         theme: prismThemes.github,
