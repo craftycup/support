@@ -8,9 +8,9 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Bloxstreet Support",
+  title: "Crafty Cup Support",
   tagline: "All there is to know about Crafty Cup",
-  favicon: "img/favicon.ico",
+  favicon: "static/favicon.ico",
 
   // Set the production url of your site here
   url: "https://craftycupsupport.vercel.app",
