@@ -96,7 +96,7 @@ const config = {
               },
               {
                 label: "Support Repository",
-                href: "https://github.com,
+                href: "https://github.com/hi,
               },
             ],
           },
