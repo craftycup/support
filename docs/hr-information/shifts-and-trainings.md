@@ -6,8 +6,8 @@ sidebar_class_name: HR Information
 
 # Shifts and Trainings
 
-:::warn
+:::tip
 
-Hey there! We're working on that...
+Hey there! This section will be published soon!
 
 :::
