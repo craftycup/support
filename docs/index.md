@@ -8,7 +8,7 @@ sidebar_label: Introduction
 
 :::danger[ERRORS]
 
-Notice any inaccurate information on this website? Contact alexandros252423 or PostedDevOfficial!
+It is with regret to inform you that Crafty Cup Cafe has ceased all operations and is officially discontinued!
 
 :::
 
