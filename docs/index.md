@@ -6,9 +6,9 @@ sidebar_label: Introduction
 
 # 👋 Welcome!
 
-:::danger[SHUTDOWN]
+:::danger[COMING SOON]
 
-It is with regret to inform you that Crafty Cup Cafe has ceased all operations and is officially discontinued!
+We're proud to announce the new website we're been working on to nake our staff experience better and easier! Stay tuned while the release will be announced in #announcements!
 
 :::
 
